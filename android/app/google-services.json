@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "282681658713",
+    "project_id": "push-notification-9d78e",
+    "storage_bucket": "push-notification-9d78e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282681658713:android:01900f05405b6ece5b1048",
+        "android_client_info": {
+          "package_name": "com.example.notification_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWhT7bzpoGZk-dIgWIWdKqEp9qHn_U5xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282681658713:android:61eafd5f1887649b5b1048",
+        "android_client_info": {
+          "package_name": "com.nafim.flutter_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWhT7bzpoGZk-dIgWIWdKqEp9qHn_U5xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282681658713:android:d1087cf04f76a57f5b1048",
+        "android_client_info": {
+          "package_name": "com.notification.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWhT7bzpoGZk-dIgWIWdKqEp9qHn_U5xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
