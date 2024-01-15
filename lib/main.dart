@@ -3,6 +3,7 @@ import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 import 'package:notification_test/firebase_options.dart';
 
+
 import 'local_notification_service.dart';
 import 'notification_service.dart';
 
@@ -18,9 +19,16 @@ Future<void> main() async {
     badge: true,
     sound: true,
   );
+
+  // await FireBaseApi().initNotification();
+
   await NotificationService.initialize();
   await NotificationService.getUserToken();
   LocalNotificationService.initialize();
+
+
+
+
 
   runApp(const MyApp());
 }
