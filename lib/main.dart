@@ -1,11 +1,11 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
-import 'package:notification_test/firebase_options.dart';
+import 'package:notification_test/notification/firebase_options.dart';
 
 
-import 'local_notification_service.dart';
-import 'notification_service.dart';
+import 'notification/local_notification_service.dart';
+import 'notification/notification_service.dart';
 
 Future<void> main() async {
 

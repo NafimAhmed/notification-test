@@ -40,7 +40,6 @@ class NotificationService{
       });
 
 
-
       log("Notification Initializer 2");
     }
 
